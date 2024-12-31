@@ -1,0 +1,6 @@
+.vs/
+.env
+.env.local
+*.vcxproj
+*.vcxproj.*
+ChristmassTreeOpenGL/*.vcxproj
